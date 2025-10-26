@@ -111,11 +111,5 @@ Backend Framework: FASTAPI
 
 
 
-
-
-
-
-
- 
-
-
+# NEXTJS + FASTAPI starter plate code
+- npx create-next-app --example https://github.com/vercel-labs/ai-sdk-preview-python-streaming ai-sdk-preview-python-streaming-example
